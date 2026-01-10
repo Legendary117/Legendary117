@@ -17,7 +17,7 @@ jobs:
         with:
           result-encoding: string
           script: |
-            const username = "YOUR_GITHUB_USERNAME";
+            const username = "Legendary117";
 
             const query = `
             query ($login: String!, $first: Int!) {
