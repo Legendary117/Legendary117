@@ -2,7 +2,7 @@ name: Update Recently Starred
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
@@ -17,34 +17,40 @@ jobs:
         with:
           result-encoding: string
           script: |
-            const username = process.env.GITHUB_ACTOR;
+            const username = "YOUR_GITHUB_USERNAME";
+
             const query = `
             query ($login: String!, $first: Int!) {
               user(login: $login) {
-                starredRepositories(first: $first, orderBy: {field: STARRED_AT, direction: DESC}) {
+                starredRepositories(
+                  first: $first
+                  orderBy: { field: STARRED_AT, direction: DESC }
+                ) {
                   edges {
-                    starredAt
                     node {
                       name
                       url
-                      stargazerCount
                       description
                     }
                   }
                 }
               }
             }`;
-            const variables = {
+
+            const response = await github.graphql(query, {
               login: username,
               first: 10
-            };
-
-            const response = await github.graphql(query, variables);
+            });
 
             const stars = response.user.starredRepositories.edges
-              .map(e => e.node)
-              .map(r => `- [${r.name}](${r.url}) — ⭐ ${r.stargazerCount}`)
+              .map(({ node }) => {
+                const desc = node.description
+                  ? ` — ${node.description.replace(/\n/g, " ")}`
+                  : "";
+                return `- [${node.name}](${node.url})${desc}`;
+              })
               .join("\n");
+
             return stars;
 
       - name: Update README
@@ -52,18 +58,19 @@ jobs:
           README=README.md
           START="<!-- RECENT_STARS:START -->"
           END="<!-- RECENT_STARS:END -->"
-          STAR_CONTENT="${{ steps.stars.outputs.result }}"
-          # write the section
-          awk -v start="$START" -v end="$END" -v repl="$STAR_CONTENT" '
-            $0 ~ start{print; print repl; skip=1; next}
-            $0 ~ end{skip=0}
-            skip{next}
-            {print}
-          ' $README > tmp && mv tmp $README
+          CONTENT="${{ steps.stars.outputs.result }}"
+
+          awk -v start="$START" -v end="$END" -v repl="$CONTENT" '
+            $0 ~ start { print; print repl; skip=1; next }
+            $0 ~ end { skip=0 }
+            skip { next }
+            { print }
+          ' "$README" > tmp && mv tmp "$README"
 
       - name: Commit & Push
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "chore: update recent stars"
-          push_options: "--force"
           file_pattern: README.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
