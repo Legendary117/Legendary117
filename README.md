@@ -4,6 +4,7 @@
 ## ⭐ Recently Starred
 
 <!-- RECENT_STARS:START -->
+- [user-scanner](https://github.com/kaifcodec/user-scanner) — 🕵️🫆 (2-in-1) Emaill and Username  OSINT tool that analyzes username and email presence across multiple platforms, intended for security research, investigations, legitimate analysis
 - [commet](https://github.com/commetchat/commet) — Your space to connect
 - [UT2004Patches](https://github.com/OldUnreal/UT2004Patches)
 - [DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) — Open-source office suite pack that comprises all the tools you need to work with documents, spreadsheets, presentations, PDFs, and PDF forms on Windows, Linux, and macOS
@@ -13,5 +14,4 @@
 - [SyncTrayzor](https://github.com/GermanCoding/SyncTrayzor) — Windows tray utility / launcher for Syncthing (v2 continued)
 - [iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) — SponsorBlock client for all YouTube TV clients.
 - [huginn](https://github.com/huginn/huginn) — Create agents that monitor and act on your behalf.  Your agents are standing by!
-- [n8n](https://github.com/n8n-io/n8n) — Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 <!-- RECENT_STARS:END -->
