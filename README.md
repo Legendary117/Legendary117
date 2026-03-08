@@ -4,6 +4,7 @@
 ## ⭐ Recently Starred
 
 <!-- RECENT_STARS:START -->
+- [bitchat](https://github.com/permissionlesstech/bitchat) — bluetooth mesh chat, IRC vibes
 - [user-scanner](https://github.com/kaifcodec/user-scanner) — 🕵️🫆 (2-in-1) Emaill and Username  OSINT tool that analyzes username and email presence across multiple platforms, intended for security research, investigations, legitimate analysis
 - [commet](https://github.com/commetchat/commet) — Your space to connect
 - [UT2004Patches](https://github.com/OldUnreal/UT2004Patches)
@@ -13,5 +14,4 @@
 - [Discount-Bandit](https://github.com/Cybrarist/Discount-Bandit) — A Multi-User Selfhosted price tracker for Amazon, Aliexpress, ebay and many more along with custom stores.  Get notified when price matches one or more criterias set by the user
 - [SyncTrayzor](https://github.com/GermanCoding/SyncTrayzor) — Windows tray utility / launcher for Syncthing (v2 continued)
 - [iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) — SponsorBlock client for all YouTube TV clients.
-- [huginn](https://github.com/huginn/huginn) — Create agents that monitor and act on your behalf.  Your agents are standing by!
 <!-- RECENT_STARS:END -->
