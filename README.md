@@ -4,6 +4,7 @@
 ## ⭐ Recently Starred
 
 <!-- RECENT_STARS:START -->
+- [meta-lobbying-and-other-findings](https://github.com/upper-up/meta-lobbying-and-other-findings)
 - [bitchat](https://github.com/permissionlesstech/bitchat) — bluetooth mesh chat, IRC vibes
 - [user-scanner](https://github.com/kaifcodec/user-scanner) — 🕵️🫆 (2-in-1) Emaill and Username  OSINT tool that analyzes username and email presence across multiple platforms, intended for security research, investigations, legitimate analysis
 - [commet](https://github.com/commetchat/commet) — Your space to connect
@@ -13,5 +14,4 @@
 - [metrics](https://github.com/lowlighter/metrics) — 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [Discount-Bandit](https://github.com/Cybrarist/Discount-Bandit) — A Multi-User Selfhosted price tracker for Amazon, Aliexpress, ebay and many more along with custom stores.  Get notified when price matches one or more criterias set by the user
 - [SyncTrayzor](https://github.com/GermanCoding/SyncTrayzor) — Windows tray utility / launcher for Syncthing (v2 continued)
-- [iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) — SponsorBlock client for all YouTube TV clients.
 <!-- RECENT_STARS:END -->
