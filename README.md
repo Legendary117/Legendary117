@@ -4,6 +4,8 @@
 ## ⭐ Recently Starred
 
 <!-- RECENT_STARS:START -->
+- [IPTV](https://github.com/Free-TV/IPTV) — M3U Playlist for free TV channels
+- [usbguard](https://github.com/USBGuard/usbguard) — USBGuard is a software framework for implementing USB device authorization policies (what kind of USB devices are authorized) as well as method of use policies (how a USB device may interact with the system)
 - [OpenNOW](https://github.com/OpenCloudGaming/OpenNOW) — Custom GeForce Now Client Named OpenNOW
 - [SoftwarePoliticsTracker](https://github.com/BryanLunduke/SoftwarePoliticsTracker) — Tracking the political stances of software projects, foundations, & corporations.
 - [DoesItAgeVerify](https://github.com/BryanLunduke/DoesItAgeVerify) — The age verification status of Open Source Operating Systems
@@ -12,6 +14,4 @@
 - [bitchat](https://github.com/permissionlesstech/bitchat) — bluetooth mesh chat, IRC vibes
 - [user-scanner](https://github.com/kaifcodec/user-scanner) — 🕵️‍♂️ (2-in-1) Email & Username OSINT suite. Analyzes 195+ scan vectors (95+ email / 100+ username) for security research, investigations, and digital footprinting.
 - [commet](https://github.com/commetchat/commet) — Your space to connect
-- [UT2004Patches](https://github.com/OldUnreal/UT2004Patches)
-- [DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) — Open-source office suite pack that comprises all the tools you need to work with documents, spreadsheets, presentations, PDFs, and PDF forms on Windows, Linux, and macOS
 <!-- RECENT_STARS:END -->
