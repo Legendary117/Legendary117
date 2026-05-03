@@ -4,6 +4,7 @@
 ## ⭐ Recently Starred
 
 <!-- RECENT_STARS:START -->
+- [kiwix-desktop](https://github.com/kiwix/kiwix-desktop) — Kiwix for Windows and GNU/Linux desktops
 - [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) — Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
 - [IPTV](https://github.com/Free-TV/IPTV) — M3U Playlist for free TV channels
 - [usbguard](https://github.com/USBGuard/usbguard) — USBGuard is a software framework for implementing USB device authorization policies (what kind of USB devices are authorized) as well as method of use policies (how a USB device may interact with the system)
@@ -13,5 +14,4 @@
 - [spell-checker](https://github.com/shigeyukey/spell-checker) — A spell checker for Anki. 
 - [meta-lobbying-and-other-findings](https://github.com/upper-up/meta-lobbying-and-other-findings)
 - [bitchat](https://github.com/permissionlesstech/bitchat) — bluetooth mesh chat, IRC vibes
-- [user-scanner](https://github.com/kaifcodec/user-scanner) — 🕵️‍♂️ (2-in-1) Email & Username OSINT suite. Analyzes 195+ scan vectors (95+ email / 100+ username) for security research, investigations, and digital footprinting.
 <!-- RECENT_STARS:END -->
