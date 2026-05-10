@@ -4,6 +4,7 @@
 ## ⭐ Recently Starred
 
 <!-- RECENT_STARS:START -->
+- [LUKSbox](https://github.com/PentHertz/LUKSbox) — Store sensitive files in the cloud, or on shared media without trusting the host. LUKSbox is a Rust-based encrypted-container tool with passphrase, FIDO2 (YubiKey, Titan, Nitrokey, Windows Hello), TPM 2.0, and hybrid post-quantum (ML-KEM-768 / 1024) keyslots. Mounts as a real drive on Linux, macOS, and Windows.
 - [kiwix-desktop](https://github.com/kiwix/kiwix-desktop) — Kiwix for Windows and GNU/Linux desktops
 - [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) — Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
 - [IPTV](https://github.com/Free-TV/IPTV) — M3U Playlist for free TV channels
@@ -13,5 +14,4 @@
 - [DoesItAgeVerify](https://github.com/BryanLunduke/DoesItAgeVerify) — The age verification status of Open Source Operating Systems
 - [spell-checker](https://github.com/shigeyukey/spell-checker) — A spell checker for Anki. 
 - [meta-lobbying-and-other-findings](https://github.com/upper-up/meta-lobbying-and-other-findings)
-- [bitchat](https://github.com/permissionlesstech/bitchat) — bluetooth mesh chat, IRC vibes
 <!-- RECENT_STARS:END -->
