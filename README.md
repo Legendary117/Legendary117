@@ -4,6 +4,7 @@
 ## ⭐ Recently Starred
 
 <!-- RECENT_STARS:START -->
+- [tech-visuals-101](https://github.com/thatstraw/tech-visuals-101) — Learn developer tools, networking, Linux, DevOps, security, databases, APIs, and cloud concepts through visuals and simple explanations.
 - [SoulSync](https://github.com/Nezreka/SoulSync) — Automated Music Discovery and Collection Manager
 - [awesome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal) — 🔍 Curated OSINT & recon toolkit for Kali Linux — 100+ tools, one-command installer, covering SOCMINT, GEOINT, network recon, dark web, forensics & more.
 - [LUKSbox](https://github.com/PentHertz/LUKSbox) — Store sensitive files in the cloud, or on shared media without trusting the host. LUKSbox is a Rust-based encrypted-container tool with passphrase, FIDO2 (YubiKey, Titan, Nitrokey, Windows Hello), TPM 2.0, and hybrid post-quantum (ML-KEM-768 / 1024) keyslots. Mounts as a real drive on Linux, macOS, and Windows.
@@ -13,5 +14,4 @@
 - [usbguard](https://github.com/USBGuard/usbguard) — USBGuard is a software framework for implementing USB device authorization policies (what kind of USB devices are authorized) as well as method of use policies (how a USB device may interact with the system)
 - [OpenNOW](https://github.com/OpenCloudGaming/OpenNOW) — Custom GeForce Now Client Named OpenNOW
 - [SoftwarePoliticsTracker](https://github.com/BryanLunduke/SoftwarePoliticsTracker) — Tracking the political stances of software projects, foundations, & corporations.
-- [DoesItAgeVerify](https://github.com/BryanLunduke/DoesItAgeVerify) — The age verification status of Open Source Operating Systems
 <!-- RECENT_STARS:END -->
