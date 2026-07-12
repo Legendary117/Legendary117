@@ -4,6 +4,7 @@
 ## ⭐ Recently Starred
 
 <!-- RECENT_STARS:START -->
+- [anonaddy](https://github.com/anonaddy/anonaddy) — Anonymous email forwarding
 - [flock-back](https://github.com/NSM-Barii/flock-back) — Wardriving tool for finding Flock Cameras.
 - [tech-visuals-101](https://github.com/thatstraw/tech-visuals-101) — Learn developer tools, networking, Linux, DevOps, security, databases, APIs, and cloud concepts through visuals and simple explanations.
 - [SoulSync](https://github.com/Nezreka/SoulSync) — Automated Music Discovery and Collection Manager
@@ -13,5 +14,4 @@
 - [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) — Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
 - [IPTV](https://github.com/Free-TV/IPTV) — M3U Playlist for free TV channels
 - [usbguard](https://github.com/USBGuard/usbguard) — USBGuard is a software framework for implementing USB device authorization policies (what kind of USB devices are authorized) as well as method of use policies (how a USB device may interact with the system)
-- [OpenNOW](https://github.com/OpenCloudGaming/OpenNOW) — Custom GeForce Now Client Named OpenNOW
 <!-- RECENT_STARS:END -->
