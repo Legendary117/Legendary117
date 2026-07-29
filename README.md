@@ -4,6 +4,7 @@
 ## ⭐ Recently Starred
 
 <!-- RECENT_STARS:START -->
+- [openwrt](https://github.com/openwrt/openwrt) — This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [anonaddy](https://github.com/anonaddy/anonaddy) — Anonymous email forwarding
 - [flock-back](https://github.com/NSM-Barii/flock-back) — Wardriving tool for finding Flock Cameras.
 - [visuals](https://github.com/thatstraw/visuals) — Learn developer tools, networking, Linux, DevOps, security, databases, APIs, and cloud concepts through visuals and simple explanations.
@@ -13,5 +14,4 @@
 - [kiwix-desktop](https://github.com/kiwix/kiwix-desktop) — Kiwix for Windows and GNU/Linux desktops
 - [project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) — Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
 - [IPTV](https://github.com/Free-TV/IPTV) — M3U Playlist for free TV channels
-- [usbguard](https://github.com/USBGuard/usbguard) — USBGuard is a software framework for implementing USB device authorization policies (what kind of USB devices are authorized) as well as method of use policies (how a USB device may interact with the system)
 <!-- RECENT_STARS:END -->
