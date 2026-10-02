@@ -4,6 +4,7 @@
 ## ⭐ Recently Starred
 
 <!-- RECENT_STARS:START -->
+- [reVCDOS](https://github.com/Lolendor/reVCDOS) — Web-based port of GTA: Vice City running in browser via WebAssembly.
 - [fluxer](https://github.com/fluxerapp/fluxer) — A free and open source instant messaging and VoIP chat app built for friends, groups, and communities.
 - [lemmy](https://github.com/LemmyNet/lemmy) — 🐀 A decentralised discussion platform for communities.
 - [nitter](https://github.com/zedeus/nitter) — Alternative Twitter front-end
@@ -13,5 +14,4 @@
 - [flock-back](https://github.com/NSM-Barii/flock-back) — Wardriving tool for finding Flock Cameras.
 - [visuals](https://github.com/thatstraw/visuals) — Learn developer tools, networking, Linux, DevOps, security, databases, APIs, and cloud concepts through visuals and simple explanations.
 - [SoulSync](https://github.com/Nezreka/SoulSync) — Intelligent Music & Video Automation Platform
-- [awesome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal) — OSINT & recon toolkit // 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics & more.
 <!-- RECENT_STARS:END -->
